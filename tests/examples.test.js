@@ -1,4 +1,4 @@
-// __tests__/utils.test.js
+// __tests__
 import {
   createElement,
   toggleVisibility,
